@@ -58,7 +58,7 @@ espnow-stadsverwarming-thermostat/
 ---
 
 ## 🔌 Wiring & Pinout Guide
-![Theben OT-Box Wiring Diagram](docs/Theben_OTBox_RAMSES_855_wiring_diagram.png)
+![Theben OT-Box Wiring Diagram](docs/Theben_OTBox_RAMSES_855_wiring_diagram.jpg)
 
 ### 1. NodeMCU Receiver (Low-Voltage Side)
 *Set the yellow hardware jumper on the 5V relay module to **`H` (High-Active)**.*
