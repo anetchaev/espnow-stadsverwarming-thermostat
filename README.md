@@ -134,5 +134,5 @@ Connect the dry contacts of your relay in parallel across the internal heating r
   * **Green Radar Arcs:** ESP-NOW packets are actively acknowledged by the basement receiver every 30 seconds.
   * **Red Warning Triangle (`X`):** Transmission failed or receiver is offline.
 * **Receiver LEDs:**
-  * **Green ON / Red OFF:** Healthy link; system operating normally.
+  * **Green ON / ORANGE OFF:** Healthy link; system operating normally.
   * **Green OFF / Red ON:** Link lost for >3 minutes; failsafe triggered and heating relay forced open.
